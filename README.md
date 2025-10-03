@@ -1,4 +1,4 @@
-# Friend Authentication App
+# Authentication web
 
 A Flutter application for user authentication with login and registration functionality.
 
