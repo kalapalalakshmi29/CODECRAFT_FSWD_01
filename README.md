@@ -1,4 +1,4 @@
-# Authentication web
+# CODECRAFT_FSWD_01 - Flutter Authentication App
 
 A Flutter application for user authentication with login and registration functionality.
 
@@ -8,6 +8,9 @@ A Flutter application for user authentication with login and registration functi
 - User Login
 - Home Screen
 - Authentication Service
+- Beautiful gradient UI design
+- Local storage for user data
+- Password hashing for security
 
 ## Getting Started
 
@@ -26,4 +29,5 @@ A Flutter application for user authentication with login and registration functi
 ## Dependencies
 
 - Flutter SDK
-- Firebase (for authentication)
+- crypto: ^3.0.3 (for password hashing)
+- shared_preferences: ^2.2.2 (for local storage)
